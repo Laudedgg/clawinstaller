@@ -4,7 +4,7 @@ import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "ClawInstaller Agent — Personal AI Assistant",
-  description: "ClawInstaller Agent — The AI that actually does things. Your personal assistant on any platform.",
+  description: "ClawInstaller Agent — AI Agent Claw Installer. Your personal assistant on any platform.",
   icons: {
     icon: "https://ext.same-assets.com/783531653/648530877.svg",
   },

@@ -68,7 +68,7 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-sm md:text-base tracking-[0.3em] text-primary font-semibold mb-6"
         >
-          THE AI THAT ACTUALLY DOES THINGS.
+          AI AGENT CLAW INSTALLER
         </motion.p>
 
         {/* Description */}
